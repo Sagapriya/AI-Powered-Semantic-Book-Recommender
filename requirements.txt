@@ -1,0 +1,16 @@
+kagglehub
+matplotlib
+pandas
+seaborn
+numpy
+transformers
+torch
+tqdm
+streamlit
+python-dotenv
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain
+chroma
+chromadb
